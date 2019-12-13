@@ -26,3 +26,7 @@ companies
 
 - webflow
   - https://twitter.com/tomjohndesign/status/1199027657473712128
+
+## Scraping
+
+- https://www.daolf.com/posts/avoiding-being-blocked-while-scraping-ultimate-guide/
