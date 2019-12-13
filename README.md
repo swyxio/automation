@@ -14,3 +14,6 @@ twitter bots
 general automation
 
 - https://github.com/huginn/huginn
+- https://n8n.io/
+- https://nodered.org/
+- more https://news.ycombinator.com/item?id=21772610
