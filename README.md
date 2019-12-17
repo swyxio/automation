@@ -30,3 +30,4 @@ companies
 ## Scraping
 
 - https://www.daolf.com/posts/avoiding-being-blocked-while-scraping-ultimate-guide/
+- https://tryspider.com/
