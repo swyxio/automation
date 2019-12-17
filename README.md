@@ -9,6 +9,7 @@ twitter bots
 
 - https://medium.com/@carolstran/a-guide-to-self-care-twitter-bots-f2430160fad4
 - https://medium.com/@NoraReed/make-your-own-hydratebot-a-tutorial-for-non-coders-d4c149da29b8
+- https://github.com/catleeball/tmnt_wikipedia_bot/
 
 
 general automation
