@@ -32,3 +32,8 @@ companies
 
 - https://www.daolf.com/posts/avoiding-being-blocked-while-scraping-ultimate-guide/
 - https://tryspider.com/
+
+
+## Low Code
+
+- Slack https://slackhq.com/automate-tasks-in-slack-with-workflow-builder
