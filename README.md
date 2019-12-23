@@ -32,6 +32,8 @@ companies
 
 - https://www.daolf.com/posts/avoiding-being-blocked-while-scraping-ultimate-guide/
 - https://tryspider.com/
+- https://github.com/paperswithcode/sota-extractor
+- https://github.com/karpathy/arxiv-sanity-preserver
 
 
 ## Low Code
