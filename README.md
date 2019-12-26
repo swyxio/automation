@@ -19,10 +19,12 @@ general automation
 - https://n8n.io/
 - https://nodered.org/
 - more https://news.ycombinator.com/item?id=21772610
+- https://news.ycombinator.com/item?id=20822637
 
 companies
 
 - Tray.io https://techcrunch.com/2019/11/26/tray-io-brings-in-50m-more-at-a-600m-valuation-for-its-workflow-automation-tools/
+- pipedream
 
 ## users
 
