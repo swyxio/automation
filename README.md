@@ -11,7 +11,7 @@ twitter bots
 - https://medium.com/@NoraReed/make-your-own-hydratebot-a-tutorial-for-non-coders-d4c149da29b8
 - https://github.com/catleeball/tmnt_wikipedia_bot/
 - https://github.com/MrDatastorage/Year-Progress-Twitter-Bot
-
+- https://realpython.com/twitter-bot-python-tweepy/
 
 general automation
 
