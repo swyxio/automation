@@ -20,6 +20,7 @@ general automation
 - https://nodered.org/
 - more https://news.ycombinator.com/item?id=21772610
 - https://news.ycombinator.com/item?id=20822637
+- python! https://automatetheboringstuff.com/2e/
 
 companies
 
