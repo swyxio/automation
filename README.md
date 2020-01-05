@@ -27,6 +27,10 @@ companies
 - Tray.io https://techcrunch.com/2019/11/26/tray-io-brings-in-50m-more-at-a-600m-valuation-for-its-workflow-automation-tools/
 - pipedream
 
+## text generation
+
+- https://github.com/minimaxir/gpt-2-simple
+
 ## users
 
 - webflow
