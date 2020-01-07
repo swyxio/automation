@@ -48,3 +48,7 @@ companies
 ## Low Code
 
 - Slack https://slackhq.com/automate-tasks-in-slack-with-workflow-builder
+
+## Funny
+
+- https://github.com/pjf/rickastley
