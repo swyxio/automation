@@ -12,6 +12,7 @@ twitter bots
 - https://github.com/catleeball/tmnt_wikipedia_bot/
 - https://github.com/MrDatastorage/Year-Progress-Twitter-Bot
 - https://realpython.com/twitter-bot-python-tweepy/
+- https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot
 
 general automation
 
