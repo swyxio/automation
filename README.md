@@ -13,6 +13,11 @@ twitter bots
 - https://github.com/MrDatastorage/Year-Progress-Twitter-Bot
 - https://realpython.com/twitter-bot-python-tweepy/
 - https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot
+- https://repl.it/talk/share/Twitter-Bot/2738
+
+discord bots
+
+- https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008
 
 general automation
 
