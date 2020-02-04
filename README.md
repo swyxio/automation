@@ -14,10 +14,16 @@ twitter bots
 - https://realpython.com/twitter-bot-python-tweepy/
 - https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot
 - https://repl.it/talk/share/Twitter-Bot/2738
+- https://repl.it/@LilyInskip_Shes/Twitter-Bot
 
 discord bots
 
 - https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008
+- https://www.codementor.io/@garethdwyer/building-a-discord-bot-with-node-js-and-repl-it-mm46r1u8y
+
+whatsapp
+
+- https://repl.it/talk/challenge/Build-a-WhatsApp-bot-in-30-minutes/7673
 
 general automation
 
