@@ -27,9 +27,10 @@ whatsapp
 
 general automation
 
-- https://github.com/huginn/huginn
+- https://github.com/huginn/huginn (Ruby)
 - https://n8n.io/
 - https://nodered.org/
+- https://airflow.apache.org/
 - more https://news.ycombinator.com/item?id=21772610
 - https://news.ycombinator.com/item?id=20822637
 - python! https://automatetheboringstuff.com/2e/
