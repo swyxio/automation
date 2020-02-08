@@ -34,6 +34,19 @@ general automation
 - https://news.ycombinator.com/item?id=20822637
 - python! https://automatetheboringstuff.com/2e/
 
+* [Beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees
+* [DataFire](https://github.com/DataFire/DataFire) - An open source framework for building and integrating APIs. Each integration provides a set of composable actions. New actions can be built by combining existing actions, JavaScript, and external libraries. They are driven by JavaScript Promises, and can be triggered by a URL, on a schedule, or manually.
+* [Kibitzr](https://kibitzr.github.io) - Get notified when important things happen
+* [Netflix Scumblr](https://github.com/Netflix/Scumblr) ([#1522](https://github.com/cantino/huginn/issues/1522)) - A web application that allows performing periodic searches and storing / taking actions on the identified results. 
+* [Node-RED](http://nodered.org) ([#1296](https://github.com/cantino/huginn/issues/1296)) - A tool for wiring together hardware devices, APIs, and online services in new and interesting ways.
+* [NoFlo](https://NoFlojs.org) - A JavaScript implementation of Flow-Based Programming (FBP). Separating the control flow of software from the actual software logic. Helping you organize large applications easier than traditional OOP paradigms, especially when importing and modifying large data sets.
+* [Pico-Engine](https://github.com/Picolab/pico-engine/) - A prototype implementation of the pico-engine written in node.js
+* [Riemann](https://github.com/riemann/riemann) - "A network event stream processing system, in Clojure. Riemann aggregates events from your servers and applications with a powerful stream processing language."
+* [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - A PHP application offering a wide selection of feeds for popular and niche services. This includes several services where queries are involved, such as translating Twitter accounts or searches into atom/JSON feeds. Possibly a valuable source of easy data for simpler Huginn scenarios.
+* [Trigger Happy](https://github.com/foxmask/django-th) - "opensource clone of IFTTT, a bridge between your internet services"
+* [Welcomer Framework](https://github.com/welcomer/framework) - Supports building microservices to flexibly automate your online tasks, putting control of your personal data back in your hands.
+
+
 companies
 
 - Tray.io https://techcrunch.com/2019/11/26/tray-io-brings-in-50m-more-at-a-600m-valuation-for-its-workflow-automation-tools/
