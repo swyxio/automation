@@ -16,6 +16,9 @@ twitter bots
 - https://repl.it/talk/share/Twitter-Bot/2738
 - https://repl.it/@LilyInskip_Shes/Twitter-Bot
 
+https://programminghistorian.org/en/lessons/intro-to-twitterbots
+https://cheapbotsdonequick.com/
+
 discord bots
 
 - https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008
