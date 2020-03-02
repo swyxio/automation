@@ -24,6 +24,7 @@ discord bots
 
 - https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008
 - https://www.codementor.io/@garethdwyer/building-a-discord-bot-with-node-js-and-repl-it-mm46r1u8y
+- https://github.com/typescript-community/community-bot
 
 whatsapp
 
