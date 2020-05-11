@@ -40,6 +40,10 @@ general automation
 - https://news.ycombinator.com/item?id=20822637
 - python! https://automatetheboringstuff.com/2e/
 
+scraping
+
+- https://news.ycombinator.com/item?id=23142220
+
 * [Beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees
 * [DataFire](https://github.com/DataFire/DataFire) - An open source framework for building and integrating APIs. Each integration provides a set of composable actions. New actions can be built by combining existing actions, JavaScript, and external libraries. They are driven by JavaScript Promises, and can be triggered by a URL, on a schedule, or manually.
 * [Kibitzr](https://kibitzr.github.io) - Get notified when important things happen
