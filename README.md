@@ -16,6 +16,7 @@ twitter bots
 - https://repl.it/talk/share/Twitter-Bot/2738
 - https://repl.it/@LilyInskip_Shes/Twitter-Bot
 - https://dev.to/prahladyeri/announcing-ghannounce-a-python-bot-that-posts-a-tweet-each-time-you-make-a-release-on-github-5abc
+- https://botwiki.org/learn/
 
 https://programminghistorian.org/en/lessons/intro-to-twitterbots
 https://cheapbotsdonequick.com/
