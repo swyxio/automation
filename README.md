@@ -1,5 +1,12 @@
 # automation
 
+## human
+
+fancyhands
+gethuman
+
+## code
+
 reddit bots and their source
 
 - https://github.com/Lachcim/css-irl-bot/blob/master/README.md
