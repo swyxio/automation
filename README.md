@@ -54,6 +54,7 @@ scraping
 - https://news.ycombinator.com/item?id=22778089
 - https://www.scrapingbee.com/blog/web-scraping-javascript/
   - https://www.scrapingbee.com/
+  - https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/
   - their Twitter surfaces good stuff
 - https://twitter.com/SahinKevin/status/1216343661459451906?s=20
 * [Beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees
