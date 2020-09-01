@@ -94,6 +94,8 @@ companies
 - https://theheadless.dev/
 
 
+WEBCRAWLING ARCHITECTURE https://nlp.stanford.edu/IR-book/information-retrieval-book.html
+
 ## Low Code
 
 - Slack https://slackhq.com/automate-tasks-in-slack-with-workflow-builder
