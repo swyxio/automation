@@ -94,7 +94,7 @@ companies
 - https://theheadless.dev/
 
 
-WEBCRAWLING ARCHITECTURE https://nlp.stanford.edu/IR-book/information-retrieval-book.html
+WEBCRAWLING ARCHITECTURE https://nlp.stanford.edu/IR-book/information-retrieval-book.html https://news.ycombinator.com/item?id=24338964
 
 ## Low Code
 
