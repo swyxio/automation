@@ -69,6 +69,7 @@ scraping
 * [Trigger Happy](https://github.com/foxmask/django-th) - "opensource clone of IFTTT, a bridge between your internet services"
 * [Welcomer Framework](https://github.com/welcomer/framework) - Supports building microservices to flexibly automate your online tasks, putting control of your personal data back in your hands.
 
+webscraper.io
 
 companies
 
