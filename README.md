@@ -59,6 +59,7 @@ scraping
   - their Twitter surfaces good stuff
 - setting cookies https://theheadless.dev/posts/managing-cookies/
 - https://twitter.com/SahinKevin/status/1216343661459451906?s=20
+- https://qoob.cc/web-scraping/
 * [Beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees
 * [DataFire](https://github.com/DataFire/DataFire) - An open source framework for building and integrating APIs. Each integration provides a set of composable actions. New actions can be built by combining existing actions, JavaScript, and external libraries. They are driven by JavaScript Promises, and can be triggered by a URL, on a schedule, or manually.
 * [Kibitzr](https://kibitzr.github.io) - Get notified when important things happen
