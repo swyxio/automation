@@ -11,6 +11,7 @@ reddit bots and their source
 
 - https://github.com/Lachcim/css-irl-bot/blob/master/README.md
 - https://dev.to/seiyria/making-a-reddit-reply-bot-f55
+- https://intoli.com/blog/f5bot/
 
 twitter bots
 
