@@ -78,6 +78,7 @@ companies
 
 - Tray.io https://techcrunch.com/2019/11/26/tray-io-brings-in-50m-more-at-a-600m-valuation-for-its-workflow-automation-tools/
 - pipedream
+- https://n8n.io/
 
 ## text generation
 
