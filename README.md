@@ -7,13 +7,13 @@ gethuman
 
 ## code
 
-reddit bots and their source
+### reddit bots and their source
 
 - https://github.com/Lachcim/css-irl-bot/blob/master/README.md
 - https://dev.to/seiyria/making-a-reddit-reply-bot-f55
 - https://intoli.com/blog/f5bot/
 
-twitter bots
+### twitter bots
 
 - https://medium.com/@carolstran/a-guide-to-self-care-twitter-bots-f2430160fad4
 - https://medium.com/@NoraReed/make-your-own-hydratebot-a-tutorial-for-non-coders-d4c149da29b8
@@ -29,17 +29,17 @@ twitter bots
 https://programminghistorian.org/en/lessons/intro-to-twitterbots
 https://cheapbotsdonequick.com/
 
-discord bots
+### discord bots
 
 - https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008
 - https://www.codementor.io/@garethdwyer/building-a-discord-bot-with-node-js-and-repl-it-mm46r1u8y
 - https://github.com/typescript-community/community-bot
 
-whatsapp
+### whatsapp
 
 - https://repl.it/talk/challenge/Build-a-WhatsApp-bot-in-30-minutes/7673
 
-general automation
+### general automation
 
 - https://github.com/huginn/huginn (Ruby)
 - https://n8n.io/
@@ -49,7 +49,7 @@ general automation
 - https://news.ycombinator.com/item?id=20822637
 - python! https://automatetheboringstuff.com/2e/
 
-scraping
+### scraping
 
 - https://news.ycombinator.com/item?id=23142220
 - https://news.ycombinator.com/item?id=22778089
@@ -74,7 +74,7 @@ scraping
 
 webscraper.io
 
-companies
+### companies
 
 - Tray.io https://techcrunch.com/2019/11/26/tray-io-brings-in-50m-more-at-a-600m-valuation-for-its-workflow-automation-tools/
 - pipedream
