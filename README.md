@@ -12,6 +12,11 @@ gethuman
 - https://github.com/Lachcim/css-irl-bot/blob/master/README.md
 - https://dev.to/seiyria/making-a-reddit-reply-bot-f55
 - https://intoli.com/blog/f5bot/
+- https://github.com/antontarasenko/smq/blob/master/README.md
+
+### HN
+
+- https://github.com/antontarasenko/smq/blob/master/README.md
 
 ### twitter bots
 
