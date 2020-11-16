@@ -4,6 +4,7 @@
 
 fancyhands
 gethuman
+pickfu? 
 
 ## code
 
@@ -56,6 +57,9 @@ https://cheapbotsdonequick.com/
 
 ### scraping
 
+- https://github.com/lorien/awesome-web-scraping
+- https://simonwillison.net/2020/Nov/14/personal-data-warehouses/
+- https://beepb00p.xyz/exports.html
 - https://news.ycombinator.com/item?id=23142220
 - https://news.ycombinator.com/item?id=22778089
 - https://www.scrapingbee.com/blog/web-scraping-javascript/
