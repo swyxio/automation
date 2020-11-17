@@ -2,9 +2,10 @@
 
 ## human
 
-fancyhands
-gethuman
-pickfu? 
+- fancyhands
+- gethuman
+- pickfu? 
+- https://www.gosquaredaway.com/ military spouse personal assistants
 
 ## code
 
