@@ -56,6 +56,7 @@ https://cheapbotsdonequick.com/
 - https://news.ycombinator.com/item?id=20822637
 - python! https://automatetheboringstuff.com/2e/
 
+
 ### scraping
 
 - https://github.com/lorien/awesome-web-scraping
@@ -81,6 +82,8 @@ https://cheapbotsdonequick.com/
 * [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - A PHP application offering a wide selection of feeds for popular and niche services. This includes several services where queries are involved, such as translating Twitter accounts or searches into atom/JSON feeds. Possibly a valuable source of easy data for simpler Huginn scenarios.
 * [Trigger Happy](https://github.com/foxmask/django-th) - "opensource clone of IFTTT, a bridge between your internet services"
 * [Welcomer Framework](https://github.com/welcomer/framework) - Supports building microservices to flexibly automate your online tasks, putting control of your personal data back in your hands.
+* https://apify.com
+
 
 webscraper.io
 
