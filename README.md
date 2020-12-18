@@ -46,6 +46,10 @@ https://cheapbotsdonequick.com/
 
 - https://repl.it/talk/challenge/Build-a-WhatsApp-bot-in-30-minutes/7673
 
+### tiktok 
+
+- https://dev.to/id1/tiktok-scraper-25a9
+
 ### general automation
 
 - https://github.com/huginn/huginn (Ruby)
