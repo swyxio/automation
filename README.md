@@ -88,6 +88,8 @@ https://cheapbotsdonequick.com/
 * [Welcomer Framework](https://github.com/welcomer/framework) - Supports building microservices to flexibly automate your online tasks, putting control of your personal data back in your hands.
 * https://apify.com
 
+to Scrape Twitter you have to fake googlebot
+https://twitter.com/magusnn/status/1339833122456662017?s=20
 
 webscraper.io
 
