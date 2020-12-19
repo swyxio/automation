@@ -2,53 +2,49 @@
 
 ## human
 
-- fancyhands
-- gethuman
-- pickfu? 
-- https://www.gosquaredaway.com/ military spouse personal assistants
+- [fancyhands](https://www.fancyhands.com/) - US virtual assistant
+- [gethuman](https://gethuman.com/) - Help for customer service
+- [pickfu](https://www.pickfu.com/) - Market feedback from US consumers 
+- [Gosquaredaway](https://www.gosquaredaway.com/)- military spouse personal assistants
 
 ## code
 
 ### reddit bots and their source
 
-- https://github.com/Lachcim/css-irl-bot/blob/master/README.md
-- https://dev.to/seiyria/making-a-reddit-reply-bot-f55
-- https://intoli.com/blog/f5bot/
-- https://github.com/antontarasenko/smq/blob/master/README.md
+- [Reddit CSS bot](https://github.com/Lachcim/css-irl-bot/blob/master/README.md)
+- [Making a Reddit Reply Bot](https://dev.to/seiyria/making-a-reddit-reply-bot-f55)
+- [Bot that scrapes reddit for keywords](https://intoli.com/blog/f5bot/)
 
 ### HN
 
-- https://github.com/antontarasenko/smq/blob/master/README.md
+- [SQL social media queries](https://github.com/antontarasenko/smq/blob/master/README.md)
 
 ### twitter bots
 
-- https://medium.com/@carolstran/a-guide-to-self-care-twitter-bots-f2430160fad4
-- https://medium.com/@NoraReed/make-your-own-hydratebot-a-tutorial-for-non-coders-d4c149da29b8
-- https://github.com/catleeball/tmnt_wikipedia_bot/
-- https://github.com/MrDatastorage/Year-Progress-Twitter-Bot
-- https://realpython.com/twitter-bot-python-tweepy/
-- https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot
-- https://repl.it/talk/share/Twitter-Bot/2738
-- https://repl.it/@LilyInskip_Shes/Twitter-Bot
-- https://dev.to/prahladyeri/announcing-ghannounce-a-python-bot-that-posts-a-tweet-each-time-you-make-a-release-on-github-5abc
-- https://botwiki.org/learn/
-
-https://programminghistorian.org/en/lessons/intro-to-twitterbots
-https://cheapbotsdonequick.com/
+- [Self-care Twitter Bots](https://medium.com/@carolstran/a-guide-to-self-care-twitter-bots-f2430160fad4)
+- [Make @hydratebot](https://medium.com/@NoraReed/make-your-own-hydratebot-a-tutorial-for-non-coders-d4c149da29b8)
+- [Wikipedia scraper bot](https://github.com/catleeball/tmnt_wikipedia_bot/)
+- [Year Progress Twitter bot](https://github.com/MrDatastorage/Year-Progress-Twitter-Bot)
+- [100daysofcode bot](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot)
+- [Tweepy Twitter Bot](https://realpython.com/twitter-bot-python-tweepy/)
+- [Another tweepy bot](https://repl.it/talk/share/Twitter-Bot/2738)
+- [Yet another tweepy bot](https://repl.it/@LilyInskip_Shes/Twitter-Bot)
+- [Github twitter bot](https://dev.to/prahladyeri/announcing-ghannounce-a-python-bot-that-posts-a-tweet-each-time-you-make-a-release-on-github-5abc)
+- How to's: [BotWiki](https://botwiki.org/learn/), [Intro to Twitter Bots](https://programminghistorian.org/en/lessons/intro-to-twitterbots), [Cheap bots done quick](https://cheapbotsdonequick.com/)
 
 ### discord bots
 
-- https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008
-- https://www.codementor.io/@garethdwyer/building-a-discord-bot-with-node-js-and-repl-it-mm46r1u8y
-- https://github.com/typescript-community/community-bot
+- [Discordpy bots](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008)
+- [Nodejs discord bot](https://www.codementor.io/@garethdwyer/building-a-discord-bot-with-node-js-and-repl-it-mm46r1u8y)
+- [Typescript community bot](https://github.com/typescript-community/community-bot)
 
 ### whatsapp
 
-- https://repl.it/talk/challenge/Build-a-WhatsApp-bot-in-30-minutes/7673
+- [Build a Whatsapp bot](https://repl.it/talk/challenge/Build-a-WhatsApp-bot-in-30-minutes/7673)
 
 ### tiktok 
 
-- https://dev.to/id1/tiktok-scraper-25a9
+- [Tiktok Scraper](https://dev.to/id1/tiktok-scraper-25a9)
 
 ### general automation
 
