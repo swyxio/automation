@@ -59,6 +59,13 @@
 
 ### scraping
 
+Info from Checkly/Tim Nolet ([podcast](https://stackoverflow.blog/2020/12/15/podcast-295-diving-into-headless-automation-active-monitoring-playwright-and-puppeteer/))
+
+- Old: Selenium
+- New: https://developers.google.com/web/tools/puppeteer (Google), https://playwright.dev/ (ex Puppeteer team left for Microsoft), Headless Recorder
+
+misc
+
 - https://github.com/lorien/awesome-web-scraping
 - https://simonwillison.net/2020/Nov/14/personal-data-warehouses/
 - https://beepb00p.xyz/exports.html
