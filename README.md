@@ -37,6 +37,8 @@
 - [Discordpy bots](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008)
 - [Nodejs discord bot](https://www.codementor.io/@garethdwyer/building-a-discord-bot-with-node-js-and-repl-it-mm46r1u8y)
 - [Typescript community bot](https://github.com/typescript-community/community-bot)
+- discord bot for community moderation - https://top.gg/bot/677184239472607299
+  - snowpack comunity has it
 
 ### whatsapp
 
