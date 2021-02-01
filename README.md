@@ -30,7 +30,7 @@
 - [Another tweepy bot](https://repl.it/talk/share/Twitter-Bot/2738)
 - [Yet another tweepy bot](https://repl.it/@LilyInskip_Shes/Twitter-Bot)
 - [Github release -> Twitter bot](https://dev.to/prahladyeri/announcing-ghannounce-a-python-bot-that-posts-a-tweet-each-time-you-make-a-release-on-github-5abc)
-- How to's: [BotWiki](https://botwiki.org/learn/), [Intro to Twitter Bots](https://programminghistorian.org/en/lessons/intro-to-twitterbots), [Cheap bots done quick](https://cheapbotsdonequick.com/)
+- Tracery generative story twitter bots: [BotWiki](https://botwiki.org/learn/), [Intro to Twitter Bots](https://programminghistorian.org/en/lessons/intro-to-twitterbots), [Cheap bots done quick](https://cheapbotsdonequick.com/)
 
 twint https://nixintel.info/osint/the-attrition-of-information-in-osint-why-acting-quickly-matters-and-how-to-recover-when-you-dont/
 
