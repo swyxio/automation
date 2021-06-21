@@ -60,6 +60,7 @@ small replit twitter bots (usually useless)
 - https://github.com/huginn/huginn (Ruby)
 - https://n8n.io/
 - https://nodered.org/
+- https://github.com/agenda/agenda nodes jobrunner
 - https://airflow.apache.org/
 - more https://news.ycombinator.com/item?id=21772610
 - https://news.ycombinator.com/item?id=20822637
