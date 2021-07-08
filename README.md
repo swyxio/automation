@@ -89,6 +89,7 @@ misc
 - setting cookies https://theheadless.dev/posts/managing-cookies/
 - https://twitter.com/SahinKevin/status/1216343661459451906?s=20
 - https://qoob.cc/web-scraping/
+- https://chrome.google.com/webstore/detail/simplescraper-%E2%81%A0%E2%80%94-a-fast-a/lnddbhdmiciimpkbilgpklcglkdegdkg?utm_source=brainpint&utm_medium=email&utm_campaign=its_ok_to_go_off_script&utm_term=2021-07-06
 * [Beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees
 * [DataFire](https://github.com/DataFire/DataFire) - An open source framework for building and integrating APIs. Each integration provides a set of composable actions. New actions can be built by combining existing actions, JavaScript, and external libraries. They are driven by JavaScript Promises, and can be triggered by a URL, on a schedule, or manually.
 * [Kibitzr](https://kibitzr.github.io) - Get notified when important things happen
