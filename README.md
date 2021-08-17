@@ -31,7 +31,7 @@
 - Tracery generative story twitter bots: [BotWiki](https://botwiki.org/learn/), [Intro to Twitter Bots](https://programminghistorian.org/en/lessons/intro-to-twitterbots), [Cheap bots done quick](https://cheapbotsdonequick.com/)
 - [Google Earth stills over time bot](https://github.com/doersino/earthacrosstime)
 - [AWS markov chain bot](https://github.com/pndurette/aws_prodbot)
-
+- [Ace Attorney bot](https://github.com/LuisMayo/ace-attorney-twitter-bot)
 
 twint https://nixintel.info/osint/the-attrition-of-information-in-osint-why-acting-quickly-matters-and-how-to-recover-when-you-dont/
 
