@@ -76,6 +76,7 @@ Info from Checkly/Tim Nolet ([podcast](https://stackoverflow.blog/2020/12/15/pod
 - Old: Selenium
 - New: https://developers.google.com/web/tools/puppeteer (Google), https://playwright.dev/ (ex Puppeteer team left for Microsoft), [Headless Recorder from checkly](https://github.com/checkly/headless-recorder) generates scripts for either
 - learn either: https://theheadless.dev
+- https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/
 
 misc
 
